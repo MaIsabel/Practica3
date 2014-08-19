@@ -13,6 +13,9 @@
         Uso de Plugins de Sonido
     </description>
 
+	<!---- Para que la aplicacion en el disposito aparezca en forma horizonta ---->
+		<preference name="orientation" value="landscape" />
+
     <preference name="phonegap-version" value="3.1.0" />
 	
     <author href="https://build.phonegap.com" email="support@phonegap.com">
@@ -21,8 +24,7 @@
 	
 		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
 		<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0" />
-		<!---- Para que la aplicacion en el disposito aparezca en forma horizonta ---->
-		<preference name="orientation" value="landscape" />
+		
 
 
 </widget>
