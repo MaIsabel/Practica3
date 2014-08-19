@@ -23,7 +23,7 @@
     </author>
 	
 		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
-		<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0" />
+		<gap:plugin name="com.rjfun.cordova.plugins.lowlatencyaudio" version="1.0" />
 		
 
 
