@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Configuracion de Plugings</name>
+    <name>Aplicacion Piano</name>
 
     <description>
         Uso de Plugins de Sonido
@@ -20,7 +20,7 @@
     </author>
 	
 		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
-		<gap:plugin name="com.rjfun.cordova.lowlatencyaudio" version="1.0" />
+		<gap:plugin name="com.rjfun.cordova.plugin.lowlatencyaudio" version="1.0" />
 
 
 </widget>
